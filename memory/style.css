@@ -1,0 +1,19 @@
+#header {
+     color: cadetblue;
+    font-size: x-large; 
+    text-align: center;
+    font-weight: 800;
+    height: 50px;
+    margin-top: 25px;
+    ;
+}
+.grid {
+    flex-wrap: wrap;
+    display: flex;
+}
+.cardImg {
+width: 100px;
+height: 100px;
+padding: 2px;
+margin: 2px;
+}
